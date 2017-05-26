@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RestFullJersey-Put&apos; to &apos;RestFull-Jersey-Put&apos;" description="Rename resource &apos;RestFullJersey-Put&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/RestFullJersey-Put" name="RestFull-Jersey-Put" stamp="1495790558290" updateReferences="true"/>
+</session>

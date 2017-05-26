@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+D:\AMol-RestWebServices\.metadata\.plugins\org.eclipse.jdt.core
+466335302.index
+2267641700.index
+3837806140.index
+2177198592.index
+1906299746.index
+241400001.index
+179350653.index
+3906998098.index
+1785456315.index
+1427717960.index
+31021180.index
+2767319113.index
+1303381641.index
+1385683482.index
+1994655055.index
+1711450226.index
+866243164.index
